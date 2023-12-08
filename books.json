@@ -1,0 +1,14 @@
+ [
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_year": 1951,
+      "genres": ["Fiction", "Coming-of-Age"]
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "genres": ["Fiction", "Southern Gothic"]
+    }
+  ]
